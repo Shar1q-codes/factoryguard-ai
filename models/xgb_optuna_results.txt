@@ -1,0 +1,17 @@
+============================================================
+XGBoost Optuna Tuning Results
+============================================================
+Best PR-AUC (from optimization): 0.3189
+Final PR-AUC (on test set): 0.3189
+Number of trials: 30
+
+Best Parameters:
+  n_estimators: 494
+  max_depth: 3
+  learning_rate: 0.18189590609103926
+  subsample: 0.9183737287539109
+  colsample_bytree: 0.9848233531735595
+  min_child_weight: 10
+  gamma: 4.537026786852586
+  scale_pos_weight: 6.85
+============================================================
